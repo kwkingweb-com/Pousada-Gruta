@@ -1,0 +1,31 @@
+POUSADA GRUTA — PROJETO VISUAL KING WEB
+
+Como abrir:
+1. Extraia o arquivo ZIP para uma pasta.
+2. Abra index.html no Chrome, Edge ou outro navegador moderno.
+
+Arquivos principais:
+- index.html: estrutura e conteúdo da página.
+- css/style.css: identidade visual, curvas SVG, layout e responsividade.
+- js/main.js: menu móvel, navegação ativa e alternância de depoimentos.
+- img/: logo e todas as fotografias utilizadas, em arquivos separados com nomes distintos.
+
+Imagens locais incluídas:
+- img/logo-pousada-gruta.png
+- img/fachada-noturna.webp
+- img/apartamento-varanda.webp
+- img/apartamento-pcd.webp
+- img/chale-area-verde.webp
+- img/area-convivencia-noturna.jpeg
+- img/jardim-pousada.webp
+
+Recursos implementados:
+- Cabeçalho com navegação responsiva sem botão de reserva no canto superior direito.
+- Hero em tela cheia com imagem local e curva SVG.
+- Seções de acomodações, lazer, localização, depoimentos e contato.
+- Curvas orgânicas em SVG para separar seções.
+- Botão flutuante do WhatsApp.
+- Ajustes para celulares, tablets, desktop e ultrawide, com prevenção de rolagem horizontal.
+- Sem mockup de celular sobreposto à página.
+
+Antes de publicar, confirme com a pousada o endereço, telefone, comodidades, depoimentos e autorização de uso das fotografias. A página não realiza reservas automáticas.

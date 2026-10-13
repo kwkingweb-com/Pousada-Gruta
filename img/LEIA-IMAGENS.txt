@@ -1,0 +1,12 @@
+PASTA img — IMAGENS LOCAIS DA POUSADA GRUTA
+
+Todas as fotografias utilizadas no site estão incluídas nesta pasta, com nomes distintos:
+- logo-pousada-gruta.png — logo oficial da pousada
+- fachada-noturna.webp — fachada iluminada à noite
+- apartamento-varanda.webp — apartamento com duas camas
+- apartamento-pcd.webp — apartamento adaptado (arquivo identificado como PCD)
+- chale-area-verde.webp — chalé e área verde
+- area-convivencia-noturna.jpeg — varanda e área de convivência à noite
+- jardim-pousada.webp — jardim externo
+
+As imagens são servidas localmente pelo projeto; o site não depende de servidores de imagens externos para exibi-las. Confirme a autorização de uso antes de publicar.
